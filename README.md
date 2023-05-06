@@ -69,16 +69,7 @@ Install Chrome (or update it lastest version)
  - python main.py
 
 OR
- With one command ./installDDoSYT or copy and enter :
- 
- - git clone https://github.com/HyukIsBack/KARMA-DDoS.git
- - sudo apt install python3 python3-pip
- - pip3 install -r KARMA-DDoS/requirements.txt
- - wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
- - sudo apt-get install ./google-chrome-stable_current_amd64.deb
- - sudo mv KARMA-DDoS/main.py /bin/DDoSYT
- - sudo rm -r KARMA-DDoS
- - sudo rm -r google-chrome-stable_current_amd64.deb
+ - With one command ./installDDoSYT
 
 ```
 

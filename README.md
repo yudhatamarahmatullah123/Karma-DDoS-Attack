@@ -69,7 +69,7 @@ Install Chrome (or update it lastest version)
  - python main.py
 
 OR
- With one command ./installDDoSYT.sh or copy and enter :
+ With one command ./installDDoSYT or copy and enter :
  
  - git clone https://github.com/HyukIsBack/KARMA-DDoS.git
  - sudo apt install python3 python3-pip

@@ -6,3 +6,8 @@ pip3 install -r /opt/KARMA-DDoS/requirements.txt
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo apt-get install ./google-chrome-stable_current_amd64.deb
 sudo rm -r google-chrome-stable_current_amd64.deb
+echo '#! /bin/bash  
+
+cd /opt/KARMA-DDoS
+python /opt/KARMA-DDoS/main.py' >> /bin/DDoSYT
+sudo chmod +x /bin/DDoSYT
